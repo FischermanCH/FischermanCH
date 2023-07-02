@@ -6,7 +6,7 @@
 - 👀 I’m interested in docker swarm running on raspi's (well not anymore, somehow)
 - 🌱 I’m currently learning DevOps, somehow...
 - 💞️ I’m looking to collaborate on docker swarm running on raspi's
-- 🔏 I'm also writing some code with very heavy help of KI's
+- 🔏 I'm also writing some code with very heavy assistance of artificial intelligence
 - 💬 Ask me about, IT security, maybe I can help you 
 - 📫 How to reach me ...ping me here or via mastodon, or there is also a website, somehow...
 
