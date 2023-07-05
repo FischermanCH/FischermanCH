@@ -1,6 +1,3 @@
-![IMG_1412](https://user-images.githubusercontent.com/53817150/190502878-0c2f565e-c4b2-4a35-b353-1f177aa8fa8b.png)
-
-
 
 - 👋 Hi, I’m Fischerman (from CH)
 - 👀 I’m interested in docker swarm running on raspi's (well not anymore, I found proxmox ;-)
