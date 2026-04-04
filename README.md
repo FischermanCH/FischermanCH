@@ -1,6 +1,5 @@
 
 - 👋 Hi, I’m Fischerman (from CH)
-- 👀 I’m interested in docker swarm running on raspi's (well not anymore, I found proxmox ;-)
 - 🌱 I’m currently learning DevOps, somehow...
 - 🔏 I'm also writing some code with very heavy assistance of artificial intelligence
 - 💬 Ask me about, IT security, maybe I can help you 
