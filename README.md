@@ -1,4 +1,4 @@
-- <img width="1024" height="1024" alt="Fischerman_01" src="https://github.com/user-attachments/assets/0f9d9376-8396-48de-9ed1-1b91cb26833f" />
+<img width="1024" height="1024" alt="Fischerman_01" src="https://github.com/user-attachments/assets/0f9d9376-8396-48de-9ed1-1b91cb26833f" />
 
 - 👋 Hi, I’m Fischerman (from CH)
 - 🌱 I’m currently learning DevOps, somehow...
