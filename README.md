@@ -1,13 +1,44 @@
 <img width="1024" height="1024" alt="Fischerman_01" src="https://github.com/user-attachments/assets/0f9d9376-8396-48de-9ed1-1b91cb26833f" />
 
-- 👋 Hi, I’m Fischerman (from CH)
-- 🌱 I’m currently learning DevOps, somehow...
-- 🔏 I'm also writing some code with very heavy assistance of artificial intelligence
-- 💬 Ask me about, IT security, maybe I can help you 
-- 📫 How to reach me ...ping me here or via mastodon, or there is also a website,...
+# 👋 Hi, I'm Fischerman
 
+IT Security professional with 30+ years in the field, currently focused on AI, local LLM infrastructure, automation and practical security engineering.
+I build things because I want to understand them.
+Not just use them.
 
-<!---
-FischermanCH/FischermanCH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Most of my projects start with a simple technical question that annoys me enough until I eventually build something around it.
+## Current interests
+- Local AI infrastructure
+- LLM workflows & agents
+- Self-hosted AI systems
+- Network visibility & monitoring
+- Automation
+- Docker & lightweight infrastructure
+- Home lab engineering
+- Cyberpunk-grade overengineering (sometimes)
+- 
+## Projects
+
+## Current Projects
+[![A.R.I.A.](https://github-readme-stats.vercel.app/api/pin/?username=FischermanCH&repo=A.R.I.A.&theme=chartreuse-dark)](https://github.com/FischermanCH/A.R.I.A.)
+[![silentmap](https://github-readme-stats.vercel.app/api/pin/?username=FischermanCH&repo=silentmap&theme=chartreuse-dark)](https://github.com/FischermanCH/silentmap)
+[![net-alarm](https://github-readme-stats.vercel.app/api/pin/?username=FischermanCH&repo=net-alarm&theme=chartreuse-dark)](https://github.com/FischermanCH/net-alarm)
+
+---
+
+More projects and experiments:
+https://fischerman.ch
+
+## AI & Development
+
+I actively work with AI-assisted development tools such as Claude Code, ChatGPT and local LLM systems.
+Not as gimmicks.
+As actual development partners.
+The interesting part is no longer whether AI can generate code.
+The interesting part is how software development itself is changing because of it.
+
+## Contact
+🌐 https://fischerman.ch 
+🐙 https://github.com/FischermanCH  
+
+🐳 https://hub.docker.com/u/fischermanch
