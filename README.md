@@ -25,14 +25,10 @@ Most of my projects start with a simple technical question that annoys me enough
 AI Runtime & Infrastructure Assistant
 
 https://github.com/FischermanCH/A.R.I.A.
-
-[![silentmap](https://github-readme-stats.vercel.app/api/pin/?username=FischermanCH&repo=silentmap&theme=chartreuse-dark)](https://github.com/FischermanCH/silentmap)
-
-[![net-alarm](https://github-readme-stats.vercel.app/api/pin/?username=FischermanCH&repo=net-alarm&theme=chartreuse-dark)](https://github.com/FischermanCH/net-alarm)
+https://github.com/FischermanCH/silentmap
+https://github.com/FischermanCH/ArpWatch2HTML
+https://github.com/FischermanCH/fischerman-wp-visitor-information
 ---
-
-More projects and experiments:
-https://fischerman.ch
 
 ## AI & Development
 
@@ -45,5 +41,4 @@ The interesting part is how software development itself is changing because of i
 ## Contact
 🌐 https://fischerman.ch 
 🐙 https://github.com/FischermanCH  
-
 🐳 https://hub.docker.com/u/fischermanch
