@@ -3,10 +3,9 @@
 # 👋 Hi, I'm Fischerman
 
 IT Security professional with 30+ years in the field, currently focused on AI, local LLM infrastructure, automation and practical security engineering.
-I build things because I want to understand them.
-Not just use them.
-
 Most of my projects start with a simple technical question that annoys me enough until I eventually build something around it.
+And then I build things because I want to understand them.
+
 ## Current interests
 - Local AI infrastructure
 - LLM workflows & agents
@@ -16,7 +15,6 @@ Most of my projects start with a simple technical question that annoys me enough
 - Docker & lightweight infrastructure
 - Home lab engineering
 - Cyberpunk-grade overengineering (sometimes)
-- 
 ---
 
 ## AI & Development
