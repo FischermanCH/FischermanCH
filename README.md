@@ -17,17 +17,6 @@ Most of my projects start with a simple technical question that annoys me enough
 - Home lab engineering
 - Cyberpunk-grade overengineering (sometimes)
 - 
-## Projects
-
-## Current Projects
-
-### A.R.I.A.
-AI Runtime & Infrastructure Assistant
-
-https://github.com/FischermanCH/A.R.I.A.
-https://github.com/FischermanCH/silentmap
-https://github.com/FischermanCH/ArpWatch2HTML
-https://github.com/FischermanCH/fischerman-wp-visitor-information
 ---
 
 ## AI & Development
