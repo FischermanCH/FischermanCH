@@ -28,6 +28,8 @@ The interesting part is no longer whether AI can generate code.
 The interesting part is how software development itself is changing because of it.
 
 ## Contact
-🌐 https://fischerman.ch 
-🐙 https://github.com/FischermanCH  
+🌐 https://fischerman.ch
+
+🐙 https://github.com/FischermanCH
+
 🐳 https://hub.docker.com/u/fischermanch
