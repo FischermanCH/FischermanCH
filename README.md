@@ -21,15 +21,14 @@ Most of my projects start with a simple technical question that annoys me enough
 
 ## Current Projects
 
-<a href="https://github.com/FischermanCH/A.R.I.A.">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FischermanCH&repo=A.R.I.A.&theme=chartreuse-dark" />
-</a>
-<a href="https://github.com/FischermanCH/silentmap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FischermanCH&repo=silentmap&theme=chartreuse-dark" />
-</a>
-<a href="https://github.com/FischermanCH/net-alarm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FischermanCH&repo=net-alarm&theme=chartreuse-dark" />
-</a>
+### A.R.I.A.
+AI Runtime & Infrastructure Assistant
+
+https://github.com/FischermanCH/A.R.I.A.
+
+[![silentmap](https://github-readme-stats.vercel.app/api/pin/?username=FischermanCH&repo=silentmap&theme=chartreuse-dark)](https://github.com/FischermanCH/silentmap)
+
+[![net-alarm](https://github-readme-stats.vercel.app/api/pin/?username=FischermanCH&repo=net-alarm&theme=chartreuse-dark)](https://github.com/FischermanCH/net-alarm)
 ---
 
 More projects and experiments:
